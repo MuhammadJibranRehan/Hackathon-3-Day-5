@@ -13,7 +13,7 @@
 ## Features
 
 - Hekto  is a furniture ecommerce website  where you can buy furnitures..
-- Implemented an awesome ui with React JS and React-bootstrap CSS.
+- Implemented an awesome ui with Next JS and Tailwind-CSS.
 - Using Node JS to create REST API and Implemented to load furnitures in the home page and products page.
 - Implemented User Authentication with Firebase Auth.
 - Implemented a dashboard for users where he/she can see his/her orders and leave a review.
